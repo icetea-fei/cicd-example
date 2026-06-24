@@ -2,7 +2,7 @@ name: Unit Tests
 on: 
   push:
 
-Jobs:
+jobs:
   greeting:
     runs-on: ubuntu-latest
     steps:
